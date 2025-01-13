@@ -1,3 +1,3 @@
-# Splyce Whitepaper  
+# Splyce Docs  
 
-This repository hosts the official Splyce whitepaper.
+This repository hosts the official Splyce documentation.
